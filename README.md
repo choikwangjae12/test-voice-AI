@@ -19,3 +19,5 @@ GPU 가속 TTS + 간단 GUI 실행파일 빌드 레포지토리
 
 ## 라이선스 및 법적
 - legal/voice_consent_template.md 문서 참조
+
+개발중0.01 버전
