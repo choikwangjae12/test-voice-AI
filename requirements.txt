@@ -1,0 +1,12 @@
+# 핵심
+torch>=1.13.0
+TTS>=0.13.0
+pyqt5
+sounddevice
+pydub
+numpy
+scipy
+pyinstaller
+soundfile
+tqdm
+requests
